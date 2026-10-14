@@ -1,16 +1,14 @@
-## Hi there 👋
+# Mathieu Austruy
 
-<!--
-**mabzzz/mabzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelance full-stack web developer, since 2007. I help companies build and evolve their websites and applications: PHP and JavaScript development, integration of external services and long-term maintenance.
 
-Here are some ideas to get you started:
+- **Custom development**: websites, web applications and business tools, with the services and APIs the project needs.
+- **Maintaining and improving existing projects**: new features, maintenance, code modernization, performance.
+- **Technical collaboration**: development alongside your teams, code review, automated tests and deployments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PHP · Symfony · WordPress · JavaScript / TypeScript · React · MySQL · Docker · GitLab CI
+
+Based between Montpellier and Rome, working remotely.
+→ [mathieu.austruy.pro](https://mathieu.austruy.pro/en/) · [Full career](https://mathieu.austruy.pro/en/cv/)
+
+Most of my client work isn't public, which is why the repositories here are mostly old forks.
