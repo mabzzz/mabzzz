@@ -9,6 +9,7 @@ Freelance full-stack web developer, since 2007. I help companies build and evolv
 PHP · Symfony · WordPress · JavaScript / TypeScript · React · MySQL · Docker · GitLab CI
 
 Based between Montpellier and Rome, working remotely.
+
 → [mathieu.austruy.pro](https://mathieu.austruy.pro/en/) · [Full career](https://mathieu.austruy.pro/en/cv/)
 
 Most of my client work isn't public, which is why the repositories here are mostly old forks.
